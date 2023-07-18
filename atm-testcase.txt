@@ -1,0 +1,394 @@
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+1
+enter your account number
+12345
+enter your name: sai
+enter your phone number: 1234567890
+enter your mail id: sai@gmail.com
+enter a pin
+1234
+re-enter the pin
+4567
+TRY AGAIN, NOT MATCHED
+enter a pin
+1234
+re-enter the pin
+1234
+Thanks for registering!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+1
+your account balance is: 0
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+3
+enter the amount you want to deposit
+10000
+enter the number of 1 rupee coins
+0
+enter the number of 2 rupee coins
+0
+enter the number of 5 rupee coins
+0
+enter the number of 10 rupee notes
+0
+enter the number of 20 rupee notes
+0
+enter the number of 50 rupee notes
+0
+enter the number of 100 rupee notes
+0
+enter the number of 200 rupee notes
+0
+enter the number of 500 rupee notes
+8
+enter the number of 2000 rupee notes
+3
+thank you! money deposited successfully!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+1
+your account balance is: 10000
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+2
+enter the amount you want to withdraw from your account
+50
+ATM does not have enough money!
+sorry for the inconvenience!try again.
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+2
+enter the amount you want to withdraw from your account
+500
+please collect your cash below!
+thank you!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+1
+your account balance is: 9500
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+7
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+1
+enter your account number
+55555
+enter your name: vignesh
+enter your phone number: 0987654321
+enter your mail id: vignesh@gmail.com
+enter a pin
+6789
+re-enter the pin
+6789
+Thanks for registering!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+3
+enter the amount you want to deposit
+15000
+enter the number of 1 rupee coins
+0
+enter the number of 2 rupee coins
+0
+enter the number of 5 rupee coins
+0
+enter the number of 10 rupee notes
+0
+enter the number of 20 rupee notes
+0
+enter the number of 50 rupee notes
+0
+enter the number of 100 rupee notes
+0
+enter the number of 200 rupee notes
+0
+enter the number of 500 rupee notes
+10
+enter the number of 2000 rupee notes
+5
+thank you! money deposited successfully!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+1
+your account balance is: 15000
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+7
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+1
+enter your account number
+12345
+your are not a first time user,login using existing user option!
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+2
+enter your account number
+12345
+enter your pin
+you have 3 attempts
+3456
+enter your pin
+you have 2 attempts
+567
+enter your pin
+you have 1 attempts
+456789
+you have exceeded the limit!!!
+verify its you and reset your pin
+enter your phone number
+1234567890
+enter a pin
+1234
+re-enter the pin
+1234
+Welcome sai
+your account number is 12345
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+4
+enter a pin
+1111
+re-enter the pin
+1111
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+5
+what do you want to change
+1.phone number
+2.mail
+1
+enter new mobile number:9999999999
+phone number updated successfully!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+5
+what do you want to change
+1.phone number
+2.mail
+2
+enter new mail:newsai@gmail.com
+mail updated successfully!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+6
+enter the receivers account number
+55555
+reenter the receivers account number
+55555
+enter the amount you want to transfer
+500000
+enter the valid amount you want to transfer
+5000
+money transferred successfully!
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+1
+your account balance is: 4500
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+7
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+2
+enter your account number
+55555
+enter your pin
+you have 3 attempts
+6789
+Welcome vignesh
+your account number is 55555
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+1
+your account balance is: 20000
+1.check balance
+2.withdraw amount
+3.make deposit
+4.reset pin
+5.update profile
+6.transfer money
+7.exit
+7
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+3
+Welcome admin!
+enter your password
+0000
+now you can add money!
+1.see atm money
+2.add money
+1
+number of 1 rupee coins = 0
+number of 2 rupee coins = 0
+number of 5 rupee coins = 0
+number of 10 rupee notes = 0
+number of 20 rupee notes = 0
+number of 50 rupee notes = 0
+number of 100 rupee notes = 0
+number of 200 rupee notes = 0
+number of 500 rupee notes = 17
+number of 2000 rupee notes = 8
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+3
+Welcome admin!
+enter your password
+0123
+enter your password
+0000
+now you can add money!
+1.see atm money
+2.add money
+2
+enter the amount you want to add
+50
+enter the number of 1 rupee coins
+0
+enter the number of 2 rupee coins
+0
+enter the number of 5 rupee coins
+0
+enter the number of 10 rupee notes
+0
+enter the number of 20 rupee notes
+0
+enter the number of 50 rupee notes
+1
+enter the number of 100 rupee notes
+0
+enter the number of 200 rupee notes
+0
+enter the number of 500 rupee notes
+0
+enter the number of 2000 rupee notes
+0
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
+3
+Welcome admin!
+enter your password
+0000
+now you can add money!
+1.see atm money
+2.add money
+1
+number of 1 rupee coins = 0
+number of 2 rupee coins = 0
+number of 5 rupee coins = 0
+number of 10 rupee notes = 0
+number of 20 rupee notes = 0
+number of 50 rupee notes = 1
+number of 100 rupee notes = 0
+number of 200 rupee notes = 0
+number of 500 rupee notes = 17
+number of 2000 rupee notes = 8
+Welcome to ATM!!!
+1.first time user
+2.existing user
+3.admin
